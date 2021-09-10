@@ -1,0 +1,4 @@
+Prefixing the explicit keyword to the constructor prevents the compiler from using that constructor for implicit conversions. Adding it to the above class will create a compiler error at the function call. It is now necessary to call for conversion explicitly w
+The reason you might want to do this is to avoid accidental construction that can hide bugs. Contrived example:
+For example you may have a MyString(int size) class with a constructor that constructs a string of the given size. You have a function print(const MyString&), and you call print(3) (when you actually intended to call print("3")). You expect it to print "3", but it prints an empty string of length 3 instead.
+C++ style operator overloading allows more concise code when dealing with scientific computations. It's far more natural to read complex numerical expressions using infix operators then a sequence of method calls. In fact, the objects involved don´t need to be of the same type.

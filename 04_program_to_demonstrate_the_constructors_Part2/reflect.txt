@@ -1,0 +1,13 @@
+Name: Rujal Tuladhar
+Student Id: 154594188
+I have done this assignment on my own using only the code provided by my instructor’s.
+
+
+In this assignment I learned about constructors and destructors. The lab was easy as the instruction was already their step by step in details.
+But while doing the DIY part I had trouble deallocating and allocating the pointers of char. So, I spent a lot of time figuring out the memory leak that I had in my workshop.
+After doing this lab I can say that implementing iomanip library seems to quite easy.
+
+While passing the value using constructor It is always recommended to set the value to empty or null state. So that there is no interference while assigning a value.
+If you create a constructor with no argument passed through it, then it is called default constructor, similarly if you pass some argument it is called parameterized constructor.
+The DIY was asking us to accept the number of subjects where the number of size was stored using (Dynamic Memory Allocation) DMA after we input the number manually.
+The second module Label.cpp comes to take part where it takes in the character inputted by the user and increases the label around it correspondingly with some limitation so that the label has some limitation.

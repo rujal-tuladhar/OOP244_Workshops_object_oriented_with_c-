@@ -1,0 +1,11 @@
+//name- Rujal Tuladhar
+//seneca id -154594188
+Template is almost like a blueprint so that when we decide to call a function, we can specify certain parameters which determine what code gets put into that and that is all determined by the way that we use that function. 
+so here is a good example of why we might want to use a template is if we want to create a function that is largely going to be the same but may take in different types maybe we have a print function that we want to use to print integers so i might do something like print in value and all this is going to do is see out the value and  how it goes back.
+We use the following syntax to implement a template.
+Template<typename T>
+The letter T can be replaced by any other letter.
+Templates are like macro, but the difference is the compiler does type checking before template expansion.
+
+This workshop was easy as my part was to just analyze the given code and understand why templates are used and how to implement them. I have been working to complete my milestone.
+I will submit my milestone 3 before midnight today .

@@ -1,0 +1,33 @@
+Name: Rujal Tuladhar
+
+Student id: 154594188
+
+While doing this workshop I got to know a lot of thing that I dint know about c++ and its capability. C++ is a fast and reliable language which is used for a delicate device such as an airplane autopilot, hospital equipment and other critical situation. The c++ language is really closed to hardware-based language where we can use this language in different hardware to perform operation with more accuracy and control over memory management.
+
+ 
+
+In the workshop 1 lab a task was given to separate the code from a .cpp file. We were to separate the code in the respective model as instructed so that it could perform the operation independently.  Also, we use the safeguard as the example:        
+
+                                                          #ifndef filename.
+
+                                                          #define filename
+
+                                                          …………header file code
+
+                                                              #endif
+
+This safeguard is used so that there is no error during the runtime of compiling the code. Also, we learned about namespace which is used to make the code more flexible to use and create less confusion. In this workshop we used the namespace sdds in every code except the main.cpp file.
+
+Each header file and its respective file is combined as one translation unit while compiling the code after the compiler does its job of compiling the translation unit it is then converted to binary code. After that the linker links the binary code to execute the code which is in machine language.
+
+ 
+
+In the DIY workshop I learned about implementing the string library on my own without using the string library. It was hard compared to lab work. Here, I used different loops such as while, for and if loop to complete my workshop.
+
+I had a really hard time implementing the code for strStr where the function returns a pointer to the beginning of the first occurrence of str2 in str1.
+
+Also I have implemented strCat ,strCpy ,strnCpy ,strCmp ,strnCmp, I got to know how cstring library works in more detail after completing this workshop.
+
+Overall, the workshop was easy and I am looking forward to learning more about encapsulation, inheritance and polymorphism in c++ OO programming.
+
+ 

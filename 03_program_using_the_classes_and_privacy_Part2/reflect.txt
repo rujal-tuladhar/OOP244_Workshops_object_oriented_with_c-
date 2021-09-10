@@ -1,0 +1,9 @@
+//Name - Rujal Tuladhar
+//Student_id- 154594188
+//I am done this workshop on my own by using the code provided by my professor.
+I have learned about the core concepts of object-oriented programming called encapsulation in which the data are stored privately without giving the permission to other classes and function. I also learned about the member function which allows the client code to access the member function and data.
+In both the lab and Diy workshop we have used classes and included all the data in classes. We created two classes along with its member function in DIY part which are Food class and calorie class where the data are stored privately by default. We set the function under the public section which can be then accessed by outer function or class. This adds a layer of security to our project so that we can only give access to the certain portion of the data we want. I also learned about the <iomanip> library which is used for present the output in more presentable way.This library is used along side with cout mostly, some of the keywords that I used during my workshop are given as follows setprecision() – which allow you to set the number you want after the decimal point, left and right which allows to align your text or character to either left or right alignment, setfill ()is another keyword which is use along side with cout.width() which sets aside a space for the character for example cout.width(14)<<m_number , here let suppose int m_number contains a value of 12 .So while printing out the value the number 12 will be printer along with 12 blank characters or spaces, if you wrote cout.width(14)<<m_number along with <<setfill(#) than the output will become 12#############.
+I look forward to learning more concepts of Object-oriented programming language in my upcoming classes.
+
+
+

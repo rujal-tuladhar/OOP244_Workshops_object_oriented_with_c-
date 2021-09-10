@@ -1,0 +1,29 @@
+Script started on Sun 24 Jan 2021 10:09:21 PM EST
+==224421== Memcheck, a memory error detector
+==224421== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==224421== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==224421== Command: ws
+==224421== 
+abcdefghijklmnopqrstuvwxyz
+@@cdefghijklmnopqrstuvwxyz
+@@@defghijklmnopqrstuvwxyz
+@@@
+1
+0
+1
+0
+26
+jklmnopqrstuvwxyz
+Not found
+John Doe
+==224421== 
+==224421== HEAP SUMMARY:
+==224421==     in use at exit: 0 bytes in 0 blocks
+==224421==   total heap usage: 1 allocs, 1 frees, 72,704 bytes allocated
+==224421== 
+==224421== All heap blocks were freed -- no leaks are possible
+==224421== 
+==224421== For lists of detected and suppressed errors, rerun with: -s
+==224421== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Sun 24 Jan 2021 10:09:21 PM EST

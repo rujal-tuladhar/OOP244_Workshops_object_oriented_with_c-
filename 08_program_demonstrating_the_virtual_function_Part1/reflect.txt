@@ -1,0 +1,12 @@
+Student Name: Rujal Tuladhar
+Student id: 154594188
+I have written this reflection on my own based on my assignment and course notes. 
+
+In this workshop we use the properties of inheritance to complete this assignment, this assignment was. 
+quite short and easy as you were to create derived and base class along with passing the constructor using the virtual function and virtual destructor. Also, we learned how constructors in an inheritance hierarchy execute in 
+order from the base class to the derived class. A pure virtual function is a member function declaration without an implementation.
+which is a useful feature to have. We also learnt about the new keyword virtual using this we can declare.
+specific dynamic dispatch. I also learned about the 'protected' access level that was of help when dealing with derived and base classes.
+ With the protected access level, the members of the derived class can have access to the private member data and member functions of the
+ base class even though it is normally prohibited to access them outside the scope of their class.
+In the milestone we were asked to create code for utils and time model, the utils model focused on member allocation and IO streams which allows the user to enter the data and it stores the data in the correct formats and displays the result. The time module, which is designated to read and write time values, here we had to do various operator overloading as instructed which was challenging.

@@ -1,0 +1,10 @@
+Name:Rujal Tuladhar
+Seneca email: rtuladhar@myseneca.ca
+Seneca id: 154594188
+I have done this work on my own based on my previous workshop 8 
+
+After doing this assignment I have learned a lot about the concept of multiple inheritance.
+The workshop 8 was quite easy but I had some memory leak which gave me a hard time fixing it.
+In this workshop we had a Shape class as a base class and inside the Shape class we created the virtual functions and destructors. We need a pure virtual function so the base class cannot be instantiated, and the derived classes are forced to define these functions before they can be instantiated.  
+We created multiple inheritance in this scenario where the Shape is the main base class, and its’ child class is LblShape class. Also, line and rectangle are the child class to LblClass.
+Inheritance made programming easier as it allows us to create classes that are built upon the existing classes and maintains the same behaviors which allows us to reuse the code from other classes with some limited access. I have been working on milestone 2 and I will hopefully complete it by tomorrow night.
